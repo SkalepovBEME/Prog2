@@ -1,0 +1,5 @@
+﻿  prog2.cpp
+C:\Users\PC\source\repos\prog2\prog2\prog2.cpp(10): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\PC\source\repos\prog2\prog2\prog2.cpp(110): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\PC\source\repos\prog2\prog2\prog2.cpp(110): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  prog2.vcxproj -> C:\Users\PC\source\repos\prog2\Debug\prog2.exe
